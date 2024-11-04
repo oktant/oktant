@@ -3,7 +3,6 @@
 [![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@oktant)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@alizada.net)
 
-<img src="https://komarev.com/ghpvc/?username=oktant&style=flat-square&color=blue" alt="">
 
 ## 📊 GitHub Stats:
 ![Your Name's GitHub stats](https://github-readme-stats-chi-eight-36.vercel.app/api?username=oktant&count_private=true&show_icons=true&theme=chartreuse-dark)
