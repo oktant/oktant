@@ -4,10 +4,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@alizada.net)
 
 
-## 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats-chi-eight-36.vercel.app/api?username=oktant&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-
 ## :hammer_and_wrench: Languages :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
