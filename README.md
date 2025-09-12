@@ -1,6 +1,6 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oalizada/)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@oktant)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.world/@oktant)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@alizada.net)
 
 
