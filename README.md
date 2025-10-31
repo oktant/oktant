@@ -1,4 +1,4 @@
-<img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/385c5486-df83-4224-a3ea-c49d5b6b571d" />## 🌐 Connect with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/oalizada/)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.world/@oktant)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/oktant.bsky.social)
@@ -16,5 +16,6 @@
 
 ## 👨‍💻 Contributing :
 <div>
-<img src="https://raw.githubusercontent.com/oktant/oktant/main/sekretess_logo.jpg" alt="Sekretess" style="width:80px; height:auto; border-radius:6px;"/>
+<img src="https://raw.githubusercontent.com/oktant/oktant/main/sekretess_logo.jpg" title="Sekretess" alt="Sekretess" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/385c5486-df83-4224-a3ea-c49d5b6b571d" title="GrapheneOS" alt="GrapheneOS" width="40" height="40"/>
 </div>
