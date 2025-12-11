@@ -16,6 +16,7 @@
 
 ## 👨‍💻 Contributing :
 <div>
-<a href="https://sekretess.io"><img src="https://raw.githubusercontent.com/oktant/oktant/main/sekretess_logo.jpg" title="Sekretess" alt="Sekretess" width="40" height="40"/></a>
+<a href="https://gnome.org"><img src="https://logonoid.com/images/thumbs/gnome-logo.png" title="Gnome" alt="Gnome" width="40" height="40"/></a>
 <a href="https://grapheneos.org"><img src="https://grapheneos.social/system/accounts/avatars/109/415/078/265/909/169/original/c74b93c7870e37a0.png" title="GrapheneOS" alt="GrapheneOS" width="40" height="40"/></a>
+<a href="https://sekretess.io"><img src="https://raw.githubusercontent.com/oktant/oktant/main/sekretess_logo.jpg" title="Sekretess" alt="Sekretess" width="40" height="40"/></a>
 </div>
